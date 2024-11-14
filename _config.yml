@@ -11,18 +11,18 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Husam Shbib
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Information Security Consultant
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: info@memoryforensic.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: 0xirison
-codepen_username: exampleUser
-dev_username: exampleUser
+codepen_username: 
+dev_username: 
 linkedin_username: husamshbib
 twitter_username: MemoryForensic
 
@@ -34,7 +34,15 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: "Husam Shbib is a professional cybersecurity consultant, adept in penetration testing, digital forensics, malware analysis, programming, and OSINT. Throughout his career, he has exhibited an unwavering commitment to overcoming challenges, considering them stepping stones to success.
+
+He holds multiple well-regarded cybersecurity certifications, including ICMDE, CCE, 3CE, 3CI, eCDFP, CEH, etc. These certifications underscore his commitment to maintaining a high level of expertise and staying current with industry best practices.
+
+Recently, he was also invited to participate in ASFSFM 2023 conference as a speaker to present part of his research in “Private Browsing Forensics”
+
+Drawing from a passion for cybersecurity, Husam Shbib authored a storybook titled “Captain Cyber and the Safe Surfing Adventure” to teach children about online safety in a simple, engaging way. Through relatable characters and imaginative storytelling, the book introduces fundamental cybersecurity concepts, empowering young readers to navigate the digital world securely.
+
+Beyond the digital realm, he is an advocate for fostering cybersecurity awareness in local communities. So, he is committed in sharing cybersecurity knowledge, both through online platforms such as LinkedIn and YouTube, as well as online & in-person mentoring."
 
 # SKILLS SECTION
 # show_skills_card:
