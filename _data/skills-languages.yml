@@ -6,19 +6,19 @@
 #   weight: 5
 
 - name: Python (Flask, PyQT)
-  weight: 7
+  weight: 5
 
 - name: JavaScript
-  weight: 4
+  weight: 2
 
 - name: C
-  weight: 3
+  weight: 2
 
 - name: C++
-  weight: 3
+  weight: 2
 
 - name: x86 Assembly
-  weight: 5
+  weight: 2
 
 - name: PHP
-  weight: 5
+  weight: 3
