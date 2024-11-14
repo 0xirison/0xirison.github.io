@@ -7,7 +7,7 @@ title: Husam Shbib
 description: "Husam Shbib's Portfolio"
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "0xirison.github.io"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
