@@ -20,11 +20,11 @@ email: info@memoryforensic.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
+linkedin_username: husamshbib
+twitter_username: MemoryForensic
 github_username: 0xirison
 codepen_username: 
 dev_username: 
-linkedin_username: husamshbib
-twitter_username: MemoryForensic
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Husam Shbib is a professional cybersecurity consultant, adept in penetration testing, digital forensics, malware analysis, programming, and OSINT. Throughout his career, he has exhibited an unwavering commitment to overcoming challenges, considering them stepping stones to success.
+about_me_description: "Husam Shbib is a professional cybersecurity consultant, adept in penetration testing, digital forensics, malware analysis, programming, and OSINT. Throughout his career, he has exhibited an unwavering commitment to overcoming challenges, considering them stepping stones to success. <br>
 
 He holds multiple well-regarded cybersecurity certifications, including ICMDE, CCE, 3CE, 3CI, eCDFP, CEH, etc. These certifications underscore his commitment to maintaining a high level of expertise and staying current with industry best practices.
 
