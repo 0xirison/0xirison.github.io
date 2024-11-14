@@ -5,32 +5,53 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
-  weight: 5
+- name: BurpSuite
+  weight: 8
 
-- name: Bash
-  weight: 3
+- name: NMAP
+  weight: 9
 
-- name: Scrum
-  weight: 3
+- name: Metasploit
+  weight: 6
 
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: Nessus
   weight: 4
 
-- name: VS Code
+- name: Magnet Axiom 
+  weight: 8
+
+- name: Autopsy 
+  weight: 7
+
+- name: Belkasoft
+  weight: 4
+
+- name: Volatility
+  weight: 8
+
+- name: FTK
   weight: 3
 
 - name: Postman
+  weight: 4
+
+ - name: Splunk
+  weight: 4 
+
+- name: ELK
+  weight: 7
+
+ - name: Yara
+  weight: 4
+
+  - name: CyberTriage
+  weight: 4
+
+  - name: Physical Analyzer
+  weight: 5
+
+  - name: MD-NEXT/MD-RED
+  weight: 5
+
+  - name: IDA Pro
   weight: 4
