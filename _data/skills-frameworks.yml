@@ -1,33 +1,57 @@
-# > name: Name of your framework
-# > weight: Describes how good you know the framework - values from 1 up to 5
+# > name: Name of your Certification
+# > weight: Describes how good you know the Certifications - values from 1 up to 5
 #
 # Example of a framework
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: ICMDE
   weight: 5
 
-- name: AngularJS
+- name: CCE
+  weight: 5
+
+- name: CCD
+  weight: 5
+
+- name: CCDFA
+  weight: 5
+
+- name: 3CI
+  weight: 5
+
+- name: 3CE
+  weight: 5
+
+- name: eCDFP
+  weight: 5
+
+- name: CEH
   weight: 3
 
-- name: React
+- name: WinFE
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Memory Forensics Masterclass for Incident Responders
   weight: 3
 
-- name: Django
-  weight: 1
+- name: PCE
+  weight: 4
+  
+ - name: ACE
+  weight: 4
 
-- name: Spring
-  weight: 2
+ - name: CSIL-COA
+  weight: 4 
 
-- name: Rails
+- name: CSC
+  weight: 4
+
+  - name: CFR
+  weight: 4
+
+  - name: MCFE
+  weight: 5
+
+  - name: BelkaCE
   weight: 4
