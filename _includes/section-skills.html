@@ -10,7 +10,7 @@
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
 
-  {% for certification in site.data.skills-languages %}
+  {% for language in site.data.skills-languages %}
     <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
       {{language.name}}
     </div>
