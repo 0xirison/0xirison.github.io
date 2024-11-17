@@ -22,7 +22,7 @@
     - tag: Volatility
 
 - name: Peeker
-  descr: "This GUI multi-threaded tool was built to extract useful and hidden information from files, such as Encoded Base64, Base32, Emails, URLs, CCN, Phone Numbers, Hex values, IPvs, MAC addresses, CCN, UTF-8, and then decrypt the values and point out at what offset of the file they were found - this tool is similar to Bulk_Extractor tool"
+  descr: "This GUI multi-threaded tool was built to extract useful and hidden information from files and folders, such as Encoded Base64, Base32, Emails, URLs, CCN, Phone Numbers, Hex values, IPvs, MAC addresses, CCN, UTF-8, and then decrypt the values and point out at what offset of the file they were found - this tool is similar to Bulk_Extractor tool"
   demo: https://www.linkedin.com/posts/husamshbib_i-am-cooking-a-digital-forensics-tool-activity-7245727789495046144-7s-w/
   tags:
     - tag: DigitalForensics
@@ -37,7 +37,6 @@
 
 - name: USB Stealer
   descr: "To increase the awareness of people who allow strangers touser their devices and plug their USBs freely, I havedeveloped a Python script to show them how easily a personcan steal certain files once his USB is plugged to their devices."
-  demo: N/A
   tags:
     - tag: Python
 
