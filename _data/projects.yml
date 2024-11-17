@@ -21,6 +21,20 @@
     - tag: MemoryForensics
     - tag: Volatility
 
+- name: Peeker
+  descr: "This GUI multi-threaded tool was built to extract useful and hidden information from files, such as Encoded Base64, Base32, Emails, URLs, CCN, Phone Numbers, Hex values, IPvs, MAC addresses, CCN, UTF-8, and then decrypt the values and point out at what offset of the file they were found - this tool is similar to Bulk_Extractor tool"
+  demo: https://www.linkedin.com/posts/husamshbib_i-am-cooking-a-digital-forensics-tool-activity-7245727789495046144-7s-w/
+  tags:
+    - tag: DigitalForensics
+    - tag: Python
+
+- name: ShadowShredder
+  descr: "This GUI multi-threaded ant-forensics tool is built to secure wiping files for normal users without the ability to recover them. It is a tiny tool ~15KB, but its wiping utility is amazing."
+  demo: https://www.linkedin.com/posts/husamshbib_this-time-i-am-cooking-an-anti-forensics-activity-7249710836359843840-kVe7
+  tags:
+    - tag: DigitalForensics
+    - tag: Python    
+
 - name: USB Stealer
   descr: "To increase the awareness of people who allow strangers touser their devices and plug their USBs freely, I havedeveloped a Python script to show them how easily a personcan steal certain files once his USB is plugged to their devices."
   demo: N/A
