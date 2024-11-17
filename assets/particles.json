@@ -11,13 +11,13 @@
       "value": ["#dc052d"]
     },
     "shape": {
-      "type": "edge",
+      "type": "circle",
       "stroke": {
         "width": 0,
         "color": "#000000"
       },
       "polygon": {
-        "nb_sides": 4
+        "nb_sides": 5
       }
     },
     "opacity": {
