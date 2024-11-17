@@ -5,38 +5,56 @@
 # - name: Language
 #   weight: 5
 
-- name: TypeScript
+- name: ICMDE
   weight: 5
 
-- name: JavaScript
-  weight: 4
+- name: CCE
+  weight: 5
 
-- name: Python
-  weight: 2
+- name: CCD
+  weight: 5
 
-- name: HTML5
-  weight: 4
+- name: 3C3
+  weight: 5
 
-- name: CSS3
+- name: 3CI
+  weight: 5
+
+- name: eCDFP
+  weight: 5
+
+- name: CCDFA
+  weight: 5
+
+- name: CFR
   weight: 3
 
-- name: SASS
-  weight: 3
+- name: CSC
+  weight: 4
 
-- name: Java
-  weight: 1
-
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
+- name: CEH
   weight: 2
 
-- name: Ruby
+- name: WinFE
+  weight: 3
+
+- name: MCFE
+  weight: 5
+
+- name: BelkaCE
+  weight: 4
+
+- name: ACE
+  weight: 3
+
+- name: PCE
+  weight: 4
+
+- name: CSIL-COA 
+  weight: 4
+
+- name: CNSP 
+  weight: 2
+
+- name: CAP 
   weight: 2
