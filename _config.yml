@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Husam Shbib
 # description: This will be meta HTML tag content. This can be ignored.
-description: Husam Shbib - Information Security Consultant
+description: Husam Shbib - Cybersecurity Consultant
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: Husam Shbib
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Information Security Consultant
+typing_text: Cybersecurity Consultant
 # email: Your E-Mail address for the email button.
 email: info@memoryforensic.com
 # For every social button you want to display, set your username or userid
