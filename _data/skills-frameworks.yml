@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Python (Flask, PyQT)
+  weight: 7
+
+- name: Java
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: PHP
   weight: 4
 
-- name: Node
-  weight: 1
+- name: C/C++
+  weight: 4
 
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Go
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: HTML/CSS3/JS
   weight: 4
+
+- name: Bash
+  weight: 4
+
+- name: PowerShell
+  weight: 4
+
+- name: x86 Assembly
+  weight: 4  
