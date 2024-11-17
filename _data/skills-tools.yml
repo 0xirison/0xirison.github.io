@@ -5,32 +5,74 @@
 # - name: Git
 #   weight: 5
 
-- name: Git
+- name: Axiom Cyber
+  weight: 8
+
+- name: MD-NEXT
+  weight: 6
+
+- name: MD-RED
+  weight: 6
+
+- name: Cyber Triage 
   weight: 5
 
-- name: Bash
-  weight: 3
+- name: Belkasoft X
+  weight: 6
 
-- name: Scrum
-  weight: 3
+- name: BurpSuite
+  weight: 7
 
-- name: Travis CI
-  weight: 1
+- name: NMAP
+  weight: 9
 
-- name: Jenkins
-  weight: 1
+- name: Metasploit
+  weight: 7
 
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
-  weight: 3
+- name: John The Ripper
+  weight: 7
 
 - name: Postman
+  weight: 6
+
+- name: Hashcat
+  weight: 6  
+
+- name: WireShark
+  weight: 8
+
+- name: Nipper
+  weight: 3  
+
+- name: Nessus
+  weight: 6
+
+- name: Acunetix 
   weight: 4
+
+- name: Volatility 
+  weight: 8
+
+- name: Splunk 
+  weight: 4
+
+- name: ELK 
+  weight: 7
+
+- name: Echo Mirage 
+  weight: 4
+
+- name: Physical Analyzer
+  weight: 4  
+  
+- name: Oxygen Detective
+  weight: 6 
+
+- name: FTK
+  weight: 4     
+
+- name: Autopsy
+  weight: 9
+
+- name: Photoshop
+  weight: 4     
