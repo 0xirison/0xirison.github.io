@@ -31,3 +31,9 @@
 
 - name: x86 Assembly
   weight: 4  
+
+- name: Arabic
+  weight: 5  
+
+- name: English
+  weight: 4  
