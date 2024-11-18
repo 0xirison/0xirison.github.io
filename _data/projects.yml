@@ -39,8 +39,10 @@
   descr: "To increase the awareness of people who allow strangers touser their devices and plug their USBs freely, I havedeveloped a Python script to show them how easily a personcan steal certain files once his USB is plugged to their devices."
   tags:
     - tag: Python
+    - tag: Penetration Testing
 
 - name: ReconRacoon
   descr: "This information gathering tool was built by Python to collect information from a given domain. it can do the following: banner grapping,Crawling, CMS checking, knowing programming languages used in website, knowing server type and a lot more features"
   tags:
     - tag: Python
+    - tag: Penetration Testing
